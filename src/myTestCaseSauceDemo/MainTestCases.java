@@ -22,7 +22,7 @@ public class MainTestCases {
 
 	@BeforeTest
 
-	public void MySetup() {
+	public void Raneem() {
 
 		driver.get(myWebSite);
 
